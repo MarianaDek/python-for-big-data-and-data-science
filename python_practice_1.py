@@ -1,0 +1,1 @@
+print("Dekhtiarenko Mariana , KN-6")
